@@ -172,25 +172,11 @@ img {vertical-align: middle;}
   from {opacity: .4} 
   to {opacity: 1}
 }
-/* Mobile responsiveness */
 
-  /* Smartphones (portrait) ----------- */
-  @media only screen and (max-width : 800px) {
-    .navbar{
-        grid-template-columns: 65%;
-        margin: 25% auto;
-        
-       } 
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 500px) {
+  .prev, .next,.text {font-size: 11px; width: 100%}
 }
-
-/* Smartphones (portrait) ----------- */
-@media only screen and (max-width : 412px) {
-    .navbar{
-        grid-template-columns: 65%;
-        margin: 15% auto;
-        
-       } 
-
 .footer {
   padding: 10px;
   text-align: center;
@@ -206,4 +192,7 @@ img {vertical-align: middle;}
   text-decoration: none;
   padding: 30px
 }
- 
+ .container {
+  width: 50%
+  background-color:grey;
+}
