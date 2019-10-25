@@ -172,11 +172,30 @@ img {vertical-align: middle;}
   from {opacity: .4} 
   to {opacity: 1}
 }
+/* Mobile responsiveness */
 
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 500px) {
-  .prev, .next,.text {font-size: 11px; width: 100%}
+  /* Smartphones (portrait) ----------- */
+  @media only screen and (max-width : 800px) {
+    .container{
+        grid-template-columns: 65%;
+        margin: 25% auto;
+        
+       } 
+
+    .intro{
+        display: none
+    }
+
 }
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 412px) {
+    .container{
+        grid-template-columns: 65%;
+        margin: 15% auto;
+        
+       } 
+
 .footer {
   padding: 10px;
   text-align: center;
