@@ -2,6 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="style2.css">
+		<link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
 	<meta name="viewport" content="width=device-width, intial-scale=1">
 	<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<title>Pneumcare</title>
@@ -89,7 +90,7 @@
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="../img/ex.jpg" style="width:100%">
-  <div class="text">Pneumcare: Ensuring Accurate Diagnosis and Health Information<</div>
+  <div class="text">Pneumcare: Ensuring Accurate Diagnosis and Health Information</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
