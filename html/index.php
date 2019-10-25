@@ -139,7 +139,7 @@ function showSlides(n) {
  			<th>Physical examination of pneumonia</th>
  		</tr>
  		<tr>
- 			<td><img src=../img/images.png" width="50%"/><p>Pnemonia is a lung infection that can be mild or so severe that you haveto go to the hospital.
+ 			<td><p>Pnemonia is a lung infection that can be mild or so severe that you haveto go to the hospital.
 	It happens if an infection causes the air sacs of the lungs (doctors call these "alveoli") to fill up with fluild or pus.
 		That can make it hard for you to breathe in enough oxygen to reach your bloodsteam.
 
