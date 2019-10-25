@@ -181,11 +181,6 @@ img {vertical-align: middle;}
         margin: 25% auto;
         
        } 
-
-    .intro{
-        display: none
-    }
-
 }
 
 /* Smartphones (portrait) ----------- */
@@ -211,7 +206,4 @@ img {vertical-align: middle;}
   text-decoration: none;
   padding: 30px
 }
- .container {
-  width: 50%
-  background-color:grey;
-}
+ 
