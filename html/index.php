@@ -46,13 +46,6 @@
 			</button>
 				
 		</div>
-		<div class="dropdown">
-			<button class="dropbtn"
-				onclick= "myfunction()"><a href="index.php"> Contact
-				<i class="fa fa-caret-down"></i></a>
-			</button>
-				
-		</div>
 		<form role="search" method="get" action="https://google.com/">
                 <input type="text" name="s" placeholder="Search Pneumcare..." required="">
                 <i type="submit" value="Search" id="searchsubmit" class="submit"><i class="fa fa-search"></i></i>
